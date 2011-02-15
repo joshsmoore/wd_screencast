@@ -1,0 +1,6 @@
+wd_deploy:
+    dev:
+        domain: josh@192.168.173.110
+        deploy_to: /home/josh/www/wd_deploy
+        branch: master
+        repository: git@github.com:joshsmoore/wd_screencast.git

@@ -66,6 +66,8 @@ GEM
     treetop (1.4.9)
       polyglot (>= 0.3.1)
     tzinfo (0.3.24)
+    whiskey_disk (0.6.4)
+      rake
 
 PLATFORMS
   ruby
@@ -73,3 +75,4 @@ PLATFORMS
 DEPENDENCIES
   rails (= 3.0.3)
   sqlite3-ruby
+  whiskey_disk
